@@ -1,0 +1,13 @@
+version = '1.3.1'
+login_response = '"success": true'
+node_delete_response = 'Node removal started...'
+node_create_response = 'true'
+node_discovery_response = "Starting discovery process"
+prob_attach_response = "Application X-Ray probe attach process started."
+prob_detach_response = "Application X-Ray probe detach process started."
+transform_response = "Auto Conatinerisation started for process nginx"
+cluster_creation_response = '"status": "create"'
+cluster_status = "createDone"
+delete_cluster_status = "delete"
+add_service_response = '"status": true,'
+pre_discover_reponse = '"status": true,'
